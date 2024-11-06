@@ -10,12 +10,12 @@ on your terminal run
 after the download complete run npm install
 
 If you made a modification on the files you have to push it back to your github repository by following the command below
-$ cd React-routing-version-6
-$ git status
-$ git add .
-$ git config user.email "your email here"
-$ git config user.name "your nickname or username here"
-$ git commit -m "your commit message here"
-$ git push
+1. $ cd React-routing-version-6
+2. $ git status
+3. $ git add .
+4. $ git config user.email "your email here"
+5. $ git config user.name "your nickname or username here"
+6. $ git commit -m "your commit message here"
+7. $ git push
 
 
